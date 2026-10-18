@@ -1,0 +1,17 @@
+AssetID,Category,Name,Type,Priority,Tool,TargetFormat,Status
+AST_ENV_001,Environment,Ruined Megacity Modular Kit,3D kit,High,Blender,FBX plus Nanite mesh,Reference only
+AST_ENV_002,Environment,Industrial Foundry Modular Kit,3D kit,High,Blender,FBX plus Nanite mesh,Reference only
+AST_ENV_003,Environment,Orbital Station Modular Kit,3D kit,Medium,Blender,FBX plus Nanite mesh,Reference only
+AST_ENV_004,Environment,Interdimensional Citadel Kit,3D kit,Medium,Blender,FBX plus Nanite mesh,Reference only
+AST_WPN_001,Weapon,Valkyrie Arc-Carbine,First-person weapon,High,Blender plus Painter,FBX plus textures,Concept only
+AST_WPN_002,Weapon,Singularity Disruptor,First-person weapon,Medium,Blender plus Painter,FBX plus textures,Concept only
+AST_ENM_001,Enemy,Razor-Stalker,Skeletal character,High,Blender plus Painter,FBX plus textures,Concept only
+AST_ENM_002,Enemy,Phalanx Trooper,Skeletal character,High,Blender plus Painter,FBX plus textures,Concept only
+AST_FX_001,VFX,Valkyrie Muzzle Flash,Niagara effect,High,Unreal,Niagara,Not started
+AST_FX_002,VFX,Dimensional Rift,Niagara effect,Medium,Unreal,Niagara,Not started
+AST_FX_003,VFX,Relay Energy Burst,Niagara effect,Medium,Unreal,Niagara,Not started
+AST_UI_001,UI,Combat HUD,Widget,High,Unreal,UMG,Not started
+AST_UI_002,UI,Mission Objective Panel,Widget,High,Unreal,UMG,Not started
+AST_AUDIO_001,Audio,Valkyrie Weapon Set,Sound set,High,Audacity or DAW,WAV 48kHz,Not started
+AST_AUDIO_002,Audio,Razor-Stalker Combat Set,Sound set,High,Audacity or DAW,WAV 48kHz,Not started
+AST_AUDIO_003,Audio,Episode 1 Music Stems,Music set,Medium,DAW,WAV or OGG,Not started

@@ -1,0 +1,9 @@
+ObjectiveId,LocalizationKey,Type,Order,StartState,CompletionRule,FailureRule,Optional
+E1M1-01,Mission.E1M1.Objective.ExitRecovery,Main,1,Locked,EnterCorridor,None,False
+E1M1-02,Mission.E1M1.Objective.RecoverWeapon,Main,2,Locked,Pickup.WPN_ValkyrieArcCarbine,None,False
+E1M1-03,Mission.E1M1.Objective.ClearThreat,Main,3,Locked,Clear.E1M1_ENC_01,None,False
+E1M1-04,Mission.E1M1.Objective.RestoreRelay,Main,4,Locked,Interact.OBJ_M1_RelayConsole,None,False
+E1M1-05,Mission.E1M1.Objective.HoldRelay,Main,5,Locked,RelayTimerCompleted,RelayHealthZero,False
+E1M1-06,Mission.E1M1.Objective.OpenGate,Main,6,Locked,Clear.E1M1_ENC_04,None,False
+E1M1-07,Mission.E1M1.Objective.ReachSurface,Main,7,Locked,Enter.EXIT_M1_Surface,None,False
+E1M1-OPT-01,Mission.E1M1.Optional.AegisMemory,Optional,1,Hidden,Interact.SECRET_M1_AegisPanel,None,True

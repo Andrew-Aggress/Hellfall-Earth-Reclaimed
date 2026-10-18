@@ -1,0 +1,11 @@
+WaveId,EncounterId,Order,EnemyId,Count,SpawnRoute,DelaySeconds,Trigger,ObjectiveImpact,Notes
+W01,E1M1_ENC_01,1,EN_RazorStalker,1,Corridor_A,0,Enter corridor,None,Single tutorial threat; no reinforcement
+W02,E1M1_ENC_02,1,EN_RazorStalker,2,Junction_NorthSouth,0,Activate junction console,None,Two-angle pressure
+W03,E1M1_ENC_02,2,EN_RazorStalker,1,Junction_East,6,Wave 1 cleared,None,Delayed reinforcement; health pickup unlocks after clear
+W04,E1M1_ENC_03,1,EN_RazorStalker,2,Relay_DoorWest,0,Relay defense starts,Relay health threatened,First defense wave
+W05,E1M1_ENC_03,2,EN_RazorStalker,3,Relay_DoorEastUpper,8,Wave 1 cleared,Relay health threatened,Split entrance pressure
+W06,E1M1_ENC_03,3,EN_RazorStalker,2,Relay_DoorWestEast,8,Wave 2 cleared,Relay health threatened,Final melee pressure
+W07,E1M1_ENC_03,4,EN_PhalanxTrooper,1,Relay_UpperCatwalk,4,Wave 3 active,Relay health threatened,Shielded ranged support; rear weak point visible
+W08,E1M1_ENC_04,1,EN_RazorStalker,3,Subway_LowerRoutes,0,Open subway gate,None,Final arena opener
+W09,E1M1_ENC_04,2,EN_PhalanxTrooper,2,Subway_UpperPlatforms,5,Wave 1 cleared,None,Maintain crossfire and readable cover
+W10,E1M1_ENC_04,3,EN_RazorStalker,1,Subway_FlankTunnel,7,Wave 2 active,None,Late flank route

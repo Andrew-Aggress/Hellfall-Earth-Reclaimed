@@ -1,0 +1,18 @@
+Key,English,Ukrainian,Russian,German,Polish,French,Italian
+Mission.E1M1.Title,Breach Point,Точка прориву,Точка прорыва,Brennpunkt,Punkt przełamania,Point de brèche,Punto di breccia
+Mission.E1M1.Objective.ExitRecovery,Exit the recovery chamber,Вийдіть із реабілітаційної камери,Выйдите из восстановительной камеры,Verlasse die Bergungskammer,Opuść komorę regeneracyjną,Sortez de la chambre de récupération,Esci dalla camera di recupero
+Mission.E1M1.Objective.RecoverWeapon,Recover the Valkyrie Arc-Carbine,Знайдіть дуговий карабін «Валькірія»,Найдите дуговой карабин «Валькирия»,Finde den Valkyrie-Lichtbogenkarabiner,Odzyskaj karabinek łukowy Valkyrie,Récupérez la carabine à arc Valkyrie,Recupera la carabina ad arco Valkyrie
+Mission.E1M1.Objective.ClearThreat,Eliminate the first threat,Знищте першу загрозу,Устраните первую угрозу,Beseitige die erste Bedrohung,Wyeliminuj pierwsze zagrożenie,Éliminez la première menace,Elimina la prima minaccia
+Mission.E1M1.Objective.RestoreRelay,Restore power to the transit relay,Відновіть живлення транзитного ретранслятора,Восстановите питание транзитного ретранслятора,Stelle die Energie des Transit-Relais wieder her,Przywróć zasilanie przekaźnika tranzytowego,Rétablissez l’alimentation du relais de transit,Ripristina l’alimentazione del relè di transito
+Mission.E1M1.Objective.HoldRelay,Hold the relay chamber,Утримуйте залу ретранслятора,Удерживайте зал ретранслятора,Halte die Relaiskammer,Obroń komorę przekaźnika,Tenez la chambre du relais,Difendi la camera del relè
+Mission.E1M1.Objective.OpenGate,Open the subway gate,Відкрийте ворота метро,Откройте ворота метро,Öffne das U-Bahn-Tor,Otwórz bramę metra,Ouvrez la porte du métro,Apri il cancello della metropolitana
+Mission.E1M1.Objective.ReachSurface,Reach the surface,Дістаньтеся поверхні,Доберитесь до поверхности,Erreiche die Oberfläche,Dotrzyj na powierzchnię,Atteignez la surface,Raggiungi la superficie
+Mission.E1M1.Optional.AegisMemory,Aegis Memory,Пам’ять «Егіди»,Память «Эгиды»,Aegis-Erinnerung,Pamięć Aegis,Souvenir d’Aegis,Memoria Aegis
+Mission.E1M1.Pickup.HealthCell,Health Cell,Осередок здоров’я,Ячейка здоровья,Gesundheitszelle,Ogniwo zdrowia,Cellule de santé,Cella salute
+Mission.E1M1.Pickup.ArmorPlate,Armor Plate,Бронепластина,Бронепластина,Rüstungspanzer,Płyta pancerza,Plaque d’armure,Piastra d’armatura
+Mission.E1M1.Pickup.ArcCell,Arc Cell Ammo,Боєприпаси дугових осередків,Боеприпасы дуговых ячеек,Munition für Lichtbogenzellen,Amunicja do ogniw łukowych,Munitions pour cellules à arc,Munizioni per celle ad arco
+UI.Interact,Interact,Взаємодія,Взаимодействовать,Interagieren,Interakcja,Interagir,Interagisci
+UI.RelayOnline,Relay online,Ретранслятор активний,Ретранслятор активен,Relais online,Przekaźnik aktywny,Relais en ligne,Relè attivo
+UI.GateOpen,Transit gate open,Транзитні ворота відкриті,Транзитные ворота открыты,Transit-Tor geöffnet,Brama tranzytowa otwarta,Porte de transit ouverte,Cancello di transito aperto
+UI.PlayerDown,Operative down,Оперативник непритомний,Оперативник выведен из строя,Operative am Boden,Operator powalony,Opérateur à terre,Operativo a terra
+UI.Revive,Revive,Підняти,Поднять,Wiederbeleben,Wskrzeszenie,Réanimer,Rianima

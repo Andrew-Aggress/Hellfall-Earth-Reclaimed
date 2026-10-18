@@ -1,0 +1,9 @@
+ID,Name,Category,Value,VisualLanguage,FirstAvailable
+PICKUP_HealthCell,Health Cell,Health,25,White cyan glow,1
+PICKUP_ArmorPlate,Armor Plate,Armor,20,Graphite plate with yellow stripe,1
+PICKUP_ArcCell,Arc Cell Ammo,Ammo,45,Cyan electrical pulse,1
+PICKUP_ShellPack,Shell Pack,Ammo,12,Orange mechanical cartridge,1
+PICKUP_SunCell,Sun Cell,Ammo,8,White orange energy core,2
+PICKUP_AegisComponent,Aegis Component,Upgrade currency,1,Blue industrial module,2
+PICKUP_SingularityCharge,Singularity Charge,Superweapon,1,Black violet energy sphere,3
+PICKUP_Overdrive,Overdrive,Temporary buff,10 seconds,Red cyan pulse,3

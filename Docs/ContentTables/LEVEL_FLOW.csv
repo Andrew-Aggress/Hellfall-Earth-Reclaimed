@@ -1,0 +1,33 @@
+LevelID,Title,Episode,PrimaryTheme,MainMechanic,BossOrFinalEvent,SecretReward
+E1M1,Breach Point,1,Bunker and subway,First weapon and relay defense,None,Aegis recording
+E1M2,Neon Slums,1,Vertical city,Emergency lift,Conversion pylon,Weapon upgrade component
+E1M3,Monorail Yards,1,Transit depot,Moving train platforms,Quarantine bridge shortcut,Transit core cache
+E1M4,Corporate Plaza,1,Observation district,Sniper sightlines,Archive lockdown,Surveillance deletion
+E1M5,Vael's Spire,1,Communications tower,Teleport anchors,Sub-Commander Vael,Gate coordinates
+E1M6,Quarantine Line,1,Military checkpoint,Alarm escalation,Defense turret gauntlet,Survivor rescue
+E1M7,Flooded Exchange,1,Underground market,Electrical water,Lab defense,Research samples
+E1M8,Outskirts Relay,1,Open relay field,Rotating defense lanes,Relay synchronization,Survivor beacon
+E2M1,Blackwood Armory,2,Military armory,Weapon upgrades,Loading floor assault,Prototype blueprint
+E2M2,The Forge,2,Industrial foundry,Molten energy routing,Forge overload,Aegis blueprint
+E2M3,Subterranean Silos,2,Biological containment,Nanite brood nodes,Containment breach,Research sample
+E2M4,The Architect's Foundry,2,Gate factory,Shifting geometry,The Architect,Core conduit
+E2M5,Railgun Causeway,2,Defense rail system,Moving exterior platforms,Railgun sabotage,Heavy ammo cache
+E2M6,Reactor Spine,2,Power reactor,Heat management,Reactor stabilization,Energy core
+E2M7,Launch Facility,2,Orbital launch site,Countdown event,Launch hangar assault,Launch override
+E2M8,Tether Ignition,2,Tether complex,Multi-console defense,Orbital launch,Anchor blueprint
+E3M1,Tether Ascent,3,Orbital tether,Vertical shaft combat,Gravity restoration,Maintenance key
+E3M2,Zenith Ring,3,Orbital station,Zero gravity,Navigation core,Evacuation roster
+E3M3,Leviathan Core,3,Orbital cannon,Internal barrel traversal,Leviathan Core,Cooling schematic
+E3M4,Station Blackout,3,Dark station,Emergency power,Blackout defense,Station AI fragment
+E3M5,Docking Graveyard,3,Orbital debris,Exterior traversal,Rescue beacon,Survivor signal
+E3M6,Gate Assembly,3,Anchor construction,Rotating platforms,Anchor sabotage,Phase rifle upgrade
+E3M7,Command Deck,3,Aegis command,Security lockdown,Command defense,Operation Anchor record
+E3M8,Dimensional Gate,3,Gate threshold,Stabilizer destruction,Gate entry,Mara signal fragment
+E4M1,The Bleed,4,Fractured reality,Shifting corridors,Anchor destruction,Reality map
+E4M2,Xylia's Citadel,4,Alien palace,Archive exploration,Citadel guard,Concordat history
+E4M3,The Nexus,4,All-zone connection,Multi-stage arena,Nexus defense,Final upgrade component
+E4M4,Empress Xylia,4,Throne chamber,Changing arena,Empress Xylia,Ending record
+E4M5,Nightmare Neon Slums,4,Remixed city,Gravity pockets,Elite pylon defense,Secret route
+E4M6,Nightmare Forge,4,Remixed foundry,Overheated machinery,Timed reactor collapse,Weapon skin
+E4M7,Nightmare Zenith Ring,4,Remixed station,Limited oxygen,Zero-G elite wave,Armor skin
+E4M8,Earth Reclaimed,4,Final surface zone,All-episode remix,Last anchor fragment,Final campaign record

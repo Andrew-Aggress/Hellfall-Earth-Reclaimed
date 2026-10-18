@@ -1,0 +1,23 @@
+Category,Id,Parameter,Value,Unit,TargetOrRule,Notes
+Player,Player,Health,100,HP,Starting value,Use existing M1 player tuning
+Player,Player,Armor,50,Armor,Starting value,Absorbs 40 percent of incoming damage
+Player,Player,WalkSpeed,650,cm/s,Responsive baseline,Keep movement readable in greybox
+Player,Player,SprintSpeed,950,cm/s,Fast arena baseline,Supports repositioning during waves
+Weapon,WPN_ValkyrieArcCarbine,DamagePerShot,12,damage,Medium-range sustained damage,No alternate fire in M1
+Weapon,WPN_ValkyrieArcCarbine,FireRate,9,shots/s,Automatic,Low predictable recoil
+Weapon,WPN_ValkyrieArcCarbine,Magazine,30,arc cells,Pickup-free M1 reload policy,Reload deferred for first slice
+Weapon,WPN_ValkyrieArcCarbine,CriticalMultiplier,1.75,x damage,Weak-point reward,Use for exposed enemy weak points
+Enemy,EN_RazorStalker,Health,90,HP,Base threat,Fast melee pressure
+Enemy,EN_RazorStalker,MoveSpeed,520,cm/s,Approach speed,Existing balance table chase speed remains 720
+Enemy,EN_RazorStalker,ChaseSpeed,720,cm/s,Maximum pursuit,Must not ignore navigation blockers
+Enemy,EN_RazorStalker,MeleeDamage,18,damage,Normal hit,Attack cooldown 1.35 seconds
+Enemy,EN_RazorStalker,LungeDamage,28,damage,Telegraphed attack,Stagger or evade window required
+Enemy,EN_RazorStalker,StaggerThreshold,30,damage within 0.4s,Readable burst response,Triggers wall-impact or burst stagger
+Enemy,EN_PhalanxTrooper,Health,180,HP,Shielded support,Introduced only in defense/final encounters
+Enemy,EN_PhalanxTrooper,Armor,90,Armor,Front pressure gate,Rear weak point bypasses shield advantage
+Enemy,EN_PhalanxTrooper,AttackDamage,22,damage,Controlled ranged threat,Place on upper routes
+Encounter,E1M1_ENC_01,ThreatBudget,1,threat units,Tutorial,One melee enemy only
+Encounter,E1M1_ENC_02,ThreatBudget,3,threat units,Low pressure,Two initial plus delayed reinforcement
+Encounter,E1M1_ENC_03,ThreatBudget,8,threat units,Medium defense,7 Razor-Stalkers plus 1 Phalanx Trooper
+Encounter,E1M1_ENC_04,ThreatBudget,8,threat units,Final pressure,4 Razor-Stalkers plus 2 Phalanx Troopers
+Encounter,E1M1,TargetDuration,8-12,minutes,Complete first slice,Includes exploration and optional secret

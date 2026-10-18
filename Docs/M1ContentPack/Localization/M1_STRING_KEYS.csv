@@ -1,0 +1,22 @@
+Key,English,Context
+Mission.E1M1.Title,Breach Point,Level title
+Mission.E1M1.Objective.ExitRecovery,Exit the recovery chamber,Primary objective
+Mission.E1M1.Objective.RecoverWeapon,Recover the Valkyrie Arc-Carbine,Primary objective
+Mission.E1M1.Objective.ClearThreat,Eliminate the first threat,Primary objective
+Mission.E1M1.Objective.RestoreRelay,Restore power to the transit relay,Primary objective
+Mission.E1M1.Objective.HoldRelay,Hold the relay chamber,Primary objective
+Mission.E1M1.Objective.OpenGate,Open the subway gate,Primary objective
+Mission.E1M1.Objective.ReachSurface,Reach the surface,Primary objective
+Mission.E1M1.Optional.AegisMemory,Aegis Memory,Optional objective
+Mission.E1M1.Pickup.HealthCell,Health Cell,Pickup name
+Mission.E1M1.Pickup.ArmorPlate,Armor Plate,Pickup name
+Mission.E1M1.Pickup.ArcCell,Arc Cell Ammo,Pickup name
+Weapon.ValkyrieArcCarbine.Name,Valkyrie Arc-Carbine,Weapon name
+Enemy.RazorStalker.Name,Razor-Stalker,Enemy name
+Enemy.PhalanxTrooper.Name,Phalanx Trooper,Enemy name
+UI.Interact,Interact,Interaction prompt
+UI.ReloadNotRequired,No reload required,Weapon feedback
+UI.RelayOnline,Relay online,World event
+UI.GateOpen,Transit gate open,World event
+UI.PlayerDown,Operative down,Cooperative state
+UI.Revive,Revive,Cooperative interaction

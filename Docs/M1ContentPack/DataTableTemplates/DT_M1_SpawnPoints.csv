@@ -1,0 +1,12 @@
+SpawnId,SpawnType,Area,TransformNote,AllowedEnemyIds,MinDistanceFromPlayer,EnabledByDefault
+SP_M1_Razor_Corridor_A,Enemy,Maintenance Corridor,Visible approach,EN_RazorStalker,900,True
+SP_M1_Razor_Junction_North,Enemy,Power Junction,North entrance,EN_RazorStalker,1200,True
+SP_M1_Razor_Junction_South,Enemy,Power Junction,South entrance,EN_RazorStalker,1200,True
+SP_M1_Razor_Junction_East,Enemy,Power Junction,East delayed route,EN_RazorStalker,1000,True
+SP_M1_Relay_DoorWest,Enemy,Relay Chamber,West door,EN_RazorStalker,1100,True
+SP_M1_Relay_DoorEast,Enemy,Relay Chamber,East door,EN_RazorStalker,1100,True
+SP_M1_Relay_UpperCatwalk,Enemy,Upper Catwalk,Phalanx overlook,EN_PhalanxTrooper,1600,True
+SP_M1_Subway_LowerWest,Enemy,Subway Gate Arena,Lower west,EN_RazorStalker,1200,True
+SP_M1_Subway_LowerEast,Enemy,Subway Gate Arena,Lower east,EN_RazorStalker,1200,True
+SP_M1_Subway_UpperPlatforms,Enemy,Subway Gate Arena,Upper platforms,EN_PhalanxTrooper,1800,True
+SP_M1_Subway_FlankTunnel,Enemy,Subway Gate Arena,Flank tunnel,EN_RazorStalker,1000,False

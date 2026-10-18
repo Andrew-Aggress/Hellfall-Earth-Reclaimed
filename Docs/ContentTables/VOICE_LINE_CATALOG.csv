@@ -1,0 +1,14 @@
+ID,Speaker,Context,Priority,Interruptible,DurationTarget,LocalizationRequired
+VO_MARA_PROLOGUE_01,Mara,Emergency broadcast,High,No,6,Yes
+VO_ROOK_PROLOGUE_01,Rook,First response,High,No,3,Yes
+VO_MARA_E1M1_WEAPON,Mara,Weapon pickup,Medium,Yes,4,Yes
+VO_MARA_E1M1_CONTACTS,Mara,First enemy encounter,High,Yes,4,Yes
+VO_MARA_E1M1_SECRET,Mara,Secret discovery,Low,Yes,4,Yes
+VO_MARA_E1M1_COMPLETE,Mara,Level completion,High,No,5,Yes
+VO_SOREN_E1M2_FIRST,Soren,First contact,High,No,8,Yes
+VO_MARA_E1M5_BOSS,Mara,Boss introduction,High,No,5,Yes
+VO_VAEL_E1M5_INTRO,Vael,Boss introduction,High,No,8,Yes
+VO_ARCHITECT_E2M4_INTRO,The Architect,Boss introduction,High,No,7,Yes
+VO_LEVIATHAN_E3M3_INTRO,Leviathan Core,Boss introduction,High,No,7,Yes
+VO_XYLIA_E4M4_INTRO,Xylia,Final boss introduction,High,No,10,Yes
+VO_MARA_ENDING,Mara,Campaign ending,High,No,6,Yes

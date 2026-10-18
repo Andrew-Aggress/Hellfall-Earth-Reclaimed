@@ -1,0 +1,28 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+
+# Build output
+Build/Windows/
+Build/Linux/
+
+# Local/editor files
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Local secrets and machine-specific settings
+.env
+*.local.ini

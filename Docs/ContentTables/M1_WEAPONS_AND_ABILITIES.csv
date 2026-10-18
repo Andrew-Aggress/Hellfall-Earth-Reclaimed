@@ -1,0 +1,4 @@
+ID,Name,Type,Damage,FireRate,FireRateUnit,Magazine,AmmoType,Stagger,CooldownSeconds,GameplayTags,VFXEvent,AudioEvent,Authority,SourceOfTruth
+WPN_ValkyrieArcCarbine,Valkyrie Arc-Carbine,Weapon,12,9,shots_per_second,45,ArcCell,Low,0,Weapon.Energy;Weapon.Automatic,VFX_M1_Valkyrie_Muzzle,Audio_M1_Valkyrie_Fire,Server_Auth_Damage,Docs/ContentTables/WEAPON_CATALOG.csv
+WPN_SingularityDisruptor,Singularity Disruptor,Weapon,220,0.15,shots_per_second,1,SingularityCharge,High,5.0,Weapon.Heavy;Weapon.AoE,VFX_M1_Singularity_Blast,Audio_M1_Singularity_Fire,Server_Auth_Damage,Docs/ContentTables/WEAPON_CATALOG.csv
+M1.Ability.Dash,Evade Dash,Ability,0,0,seconds_between_uses,0,None,None,3.0,Ability.Movement,VFX_M1_Dash_Trail,Audio_M1_Dash_Use,Client_Predicted_Movement,Docs/Engineering/M1_SAVE_SETTINGS_INPUT.md

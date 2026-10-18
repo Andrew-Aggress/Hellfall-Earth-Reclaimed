@@ -1,0 +1,9 @@
+ID,Name,Type,Role,Damage,FireRate,AmmoType,UnlockEpisode,UpgradeBranchA,UpgradeBranchB
+WPN_ValkyrieArcCarbine,Valkyrie Arc-Carbine,Automatic Energy Rifle,Medium-range sustained damage,12,9,Arc Cell,1,Precision Arc,Overload Arc
+WPN_TrenchSweeper,Trench-Sweeper Scattergun,Close-range Scattergun,High burst and knockback,9x12,1.2,Shell,1,Impact Core,Wide Pattern
+WPN_SunforgeCannon,Sunforge Cannon,Heavy Energy Beam,Armor melting and piercing,80,0.8,Sun Cell,2,Focused Beam,Heat Cascade
+WPN_HellbreachMortar,Hellbreach Mortar,Smart Rocket Launcher,Area damage and weak-point pressure,140,0.65,Mortar Shell,2,Cluster Payload,Marked Target
+WPN_CoronaEmitter,Corona Emitter,Plasma Orb Launcher,Delayed area denial,65,1.4,Plasma Cell,2,Chain Burst,Static Field
+WPN_ThermalHalberd,Thermal Halberd,Melee Energy Blade,Parry and execution,75,1.5,Thermal Charge,2,Countercut,Overheat
+WPN_VesperaPhaseRifle,Vespera Phase-Rifle,Enemy Energy Rifle,Delayed displacement shots,45,3.0,Phase Cell,3,Delay Split,Phase Lock
+WPN_SingularityDisruptor,Singularity Disruptor,Superweapon,Large-scale crowd control,220,0.15,Singularity Charge,3,Compression,Fracture

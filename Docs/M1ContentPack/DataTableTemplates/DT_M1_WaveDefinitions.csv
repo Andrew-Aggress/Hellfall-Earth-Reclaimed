@@ -1,0 +1,11 @@
+WaveId,EncounterId,Order,EnemyId,Count,SpawnRoute,DelaySeconds,TriggerTag,ClearConditionTag,RewardId
+W01,E1M1_ENC_01,1,EN_RazorStalker,1,Corridor_A,0,M1.Trigger.EnterCorridor,M1.Clear.AllEnemies,M1.Reward.None
+W02,E1M1_ENC_02,1,EN_RazorStalker,2,Junction_NorthSouth,0,M1.Trigger.ActivateJunction,M1.Clear.AllEnemies,M1.Reward.HealthCell
+W03,E1M1_ENC_02,2,EN_RazorStalker,1,Junction_East,6,M1.Trigger.WaveCleared,M1.Clear.AllEnemies,M1.Reward.None
+W04,E1M1_ENC_03,1,EN_RazorStalker,2,Relay_DoorWest,0,M1.Trigger.RelayDefense,M1.Clear.AllEnemies,M1.Reward.None
+W05,E1M1_ENC_03,2,EN_RazorStalker,3,Relay_DoorEastUpper,8,M1.Trigger.WaveCleared,M1.Clear.AllEnemies,M1.Reward.None
+W06,E1M1_ENC_03,3,EN_RazorStalker,2,Relay_DoorWestEast,8,M1.Trigger.WaveCleared,M1.Clear.AllEnemies,M1.Reward.None
+W07,E1M1_ENC_03,4,EN_PhalanxTrooper,1,Relay_UpperCatwalk,4,M1.Trigger.WaveActive,M1.Clear.AllEnemies,M1.Reward.RelayComplete
+W08,E1M1_ENC_04,1,EN_RazorStalker,3,Subway_LowerRoutes,0,M1.Trigger.SubwayArena,M1.Clear.AllEnemies,M1.Reward.None
+W09,E1M1_ENC_04,2,EN_PhalanxTrooper,2,Subway_UpperPlatforms,5,M1.Trigger.WaveCleared,M1.Clear.AllEnemies,M1.Reward.None
+W10,E1M1_ENC_04,3,EN_RazorStalker,1,Subway_FlankTunnel,7,M1.Trigger.WaveActive,M1.Clear.AllEnemies,M1.Reward.GateOpen

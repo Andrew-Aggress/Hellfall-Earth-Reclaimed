@@ -1,0 +1,11 @@
+AssetId,SourceRevision,ImportedDate,Units,Scale,MaterialSlots,TextureMaxSize,Nanite,Collision,LODStrategy,NiagaraTier,AudioCodec,MemoryBudgetKB,LicenseStatus,Reviewer,Status,Notes,SourcePath,ProvenanceRef
+HF_SK_ValkyrieArcCarbine,ConceptPack-M1,2026-10-18,cm,1.0,4,4096,Enabled,Custom,Auto,Standard,N/A,24576,Original,Pending,Planned,First-person weapon mesh and materials,Docs/ReferencePack/02_Weapons/Valkyrie_Arc_Carbine_01.jfif,OriginalConcept-M1
+HF_SK_RazorStalker,ConceptPack-M1,2026-10-18,cm,1.0,6,4096,Enabled,Capsule,Auto,Standard,N/A,32768,Original,Pending,Planned,M1 melee enemy,Docs/ReferencePack/03_Enemies/Razor_Stalker_01.jfif,OriginalConcept-M1
+HF_SK_PhalanxTrooper,ConceptPack-M1,2026-10-18,cm,1.0,8,4096,Enabled,Capsule,Auto,Standard,N/A,40960,Original,Pending,Planned,M1 shielded enemy,Docs/ReferencePack/03_Enemies/Phalanx_Trooper_01.jfif,OriginalConcept-M1
+HF_SM_SubwayGate,Blockout-M1,2026-10-18,cm,1.0,3,2048,Enabled,Complex,Auto,Low,N/A,16384,Original,Pending,Planned,GATE_M1_Subway environment asset,Docs/M1ContentPack/M1_PLACEMENT_MAP.md,OriginalBlockout-M1
+HF_SM_RelayCore,Blockout-M1,2026-10-18,cm,1.0,5,2048,Enabled,Simple,Auto,Low,N/A,12288,Original,Pending,Planned,OBJ_M1_RelayCore objective prop,Docs/M1ContentPack/M1_PLACEMENT_MAP.md,OriginalBlockout-M1
+HF_VFX_RelayDefense,EventSpec-M1,2026-10-18,N/A,1.0,N/A,1024,Disabled,N/A,N/A,Medium,N/A,8192,Original,Pending,Planned,Relay defense effects,Docs/M1ContentPack/M1_VFX_AUDIO_EVENTS.csv,OriginalVFXSpec-M1
+HF_VFX_SingularityBlast,EventSpec-M1,2026-10-18,N/A,1.0,N/A,2048,Disabled,N/A,N/A,High,N/A,12288,Original,Pending,Planned,Superweapon blast,Docs/M1ContentPack/M1_VFX_AUDIO_EVENTS.csv,OriginalVFXSpec-M1
+HF_A_ValkyrieFire,AudioSpec-M1,2026-10-18,N/A,1.0,N/A,N/A,Disabled,N/A,N/A,N/A,PCM_48k,2048,Original,Pending,Planned,Weapon fire placeholder,Docs/Audio/AUDIO_AND_VOICE_SPEC.md,OriginalAudioSpec-M1
+HF_A_SingularityFire,AudioSpec-M1,2026-10-18,N/A,1.0,N/A,N/A,Disabled,N/A,N/A,N/A,PCM_48k,4096,Original,Pending,Planned,Superweapon fire placeholder,Docs/Audio/AUDIO_AND_VOICE_SPEC.md,OriginalAudioSpec-M1
+HF_UI_M1HUD,HUDSpec-M1,2026-10-18,N/A,1.0,N/A,N/A,Disabled,N/A,N/A,Low,N/A,4096,Original,Pending,Planned,HUD widget set,Docs/UI/M1_UI_HUD_SPEC.md,OriginalUISpec-M1

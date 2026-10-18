@@ -1,0 +1,4 @@
+PickupId,PickupType,Amount,PlacementId,RespawnPolicy,GrantEvent,LocalizationKey
+PU_M1_Health_AfterJunction,Health,25,PU_M1_Health_AfterJunction,Never,M1.Event.Pickup.Granted,Mission.E1M1.Pickup.HealthCell
+PU_M1_ArcCell_BeforeRelay,ArcCell,45,PU_M1_ArcCell_BeforeRelay,Never,M1.Event.Pickup.Granted,Mission.E1M1.Pickup.ArcCell
+PU_M1_Armor_AegisRoom,Armor,20,PU_M1_Armor_AegisRoom,Never,M1.Event.Pickup.Granted,Mission.E1M1.Pickup.ArmorPlate

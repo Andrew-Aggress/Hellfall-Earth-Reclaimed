@@ -1,0 +1,11 @@
+Alias,CanonicalId,EntityType,SourceOfTruth,Decision
+HF_Start_Point,SP_M1_Spawn_Player,Placement,Docs/M1ContentPack/M1_PLACEMENT_MAP.md,Use existing player start placement
+HF_Heavy_Gate_01,GATE_M1_Subway,Gate,Docs/M1ContentPack/M1_PLACEMENT_MAP.md,Use existing subway gate placement
+Mission.M1.Obj1,Mission.E1M1.Objective.RestoreRelay,LocalizationKey,Docs/M1ContentPack/Localization/M1_STRING_KEYS.csv,Use existing E1M1 objective key
+M1.Weapon.Valkyrie,WPN_ValkyrieArcCarbine,Weapon,Docs/ContentTables/WEAPON_CATALOG.csv,Use existing weapon catalog ID
+M1.Weapon.Singularity,WPN_SingularityDisruptor,Weapon,Docs/ContentTables/WEAPON_CATALOG.csv,Use existing weapon catalog ID
+M1.Event.RelayDefense_Start,M1.Event.Relay.Activated,Event,Docs/Engineering/M1_BLUEPRINT_EVENT_CONTRACTS.md,Use existing relay activation event
+M1.Event.RelayDefense_Complete,M1.Event.Relay.Completed,Event,Docs/Engineering/M1_BLUEPRINT_EVENT_CONTRACTS.md,Use existing relay completion event
+M1.Event.Gate_Open,M1.Event.Gate.Opened,Event,Docs/Engineering/M1_BLUEPRINT_EVENT_CONTRACTS.md,Use existing gate event
+M1.Event.Level_Complete,M1.Event.Objective.Completed,Event,Docs/Engineering/M1_BLUEPRINT_EVENT_CONTRACTS.md,Use objective completion with ObjectiveId
+Narrative.M1.Mara1,Narrative.E1M1.Mara.RazorAlert,LocalizationKey,Docs/Narrative/Dialogue/M1_MARA_COMBAT_LINES.md,Use stable E1M1 Mara dialogue key

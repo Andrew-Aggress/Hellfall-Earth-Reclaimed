@@ -1,0 +1,11 @@
+ID,Name,Role,Health,Armor,MoveSpeed,AttackDamage,AttackRange,Weakness,FirstEpisode
+EN_RazorStalker,Razor-Stalker,Melee pressure,90,0,720,18,180,Stagger after lunge,1
+EN_AeroWraith,Aero-Wraith,Aerial ranged,65,20,430,12,1800,Sustained automatic fire,3
+EN_PhalanxTrooper,Phalanx Trooper,Shielded ranged,180,90,280,22,1600,Rear weak point,1
+EN_SparkCaster,Spark-Caster,Area denial support,75,10,300,28,1200,High burst damage,2
+EN_OverwatchSentinel,Overwatch Sentinel,Sniper,110,40,180,65,5000,Break line of sight,1
+EN_HiveWeaver,Hive-Weaver,Spawner support,130,25,240,8,900,Priority target,2
+EN_JuggernautExarch,Juggernaut Exarch,Heavy elite,900,350,180,45,2200,Back weak point,2
+EN_NaniteCloud,Nanite Cloud,Area denial,250,0,120,10,500,Keep moving,2
+EN_ConcordatWarden,Concordat Warden,Elite hybrid,420,180,350,34,1500,Energy overload,3
+EN_GateSeraph,Gate Seraph,Dimensional elite,700,260,500,50,2400,Destroy anchor nodes,4

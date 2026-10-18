@@ -1,0 +1,19 @@
+EventId,Phase,GameplayEvent,VFXAsset,AudioEvent,Priority,Localization,Network,Acceptance
+M1_EVT_001,Exploration,Player exits recovery chamber,NS_M1_DoorUnlock,SFX_M1_Door_Unlock,Medium,None,ServerReplicated,Door feedback is readable without combat noise
+M1_EVT_002,Pickup,Valkyrie Arc-Carbine collected,NS_Weapon_Valkyrie_Pickup,SFX_M1_Weapon_Pickup,High,UI key only,ServerReplicated,Pickup confirms weapon and ammo state
+M1_EVT_003,Combat,Razor-Stalker alert,NS_Enemy_RazorStalker_Alert,SFX_M1_Razor_Alert,High,Subtitle optional,ServerReplicated,Player receives directional warning
+M1_EVT_004,Combat,Razor-Stalker lunge telegraph,NS_Enemy_RazorStalker_Lunge,SFX_M1_Razor_Lunge_Telegraph,High,Subtitle optional,ServerReplicated,Telegraph readable before damage window
+M1_EVT_005,Combat,Razor-Stalker hit,NS_Enemy_RazorStalker_Hit,SFX_M1_Razor_Hit,Medium,None,ServerReplicated,Impact differentiates armorless flesh/energy hit
+M1_EVT_006,Combat,Razor-Stalker stagger,NS_Enemy_RazorStalker_Stagger,SFX_M1_Razor_Stagger,High,None,ServerReplicated,Stagger confirms burst threshold
+M1_EVT_007,Combat,Phalanx shield hit,NS_Enemy_Phalanx_ShieldHit,SFX_M1_Phalanx_Shield_Hit,High,None,ServerReplicated,Front hit communicates no damage or reduced damage
+M1_EVT_008,Combat,Phalanx rear weak point hit,NS_Enemy_Phalanx_WeakPoint,SFX_M1_Phalanx_WeakPoint,High,None,ServerReplicated,Weak point is visually and sonically distinct
+M1_EVT_009,Weapon,Valkyrie muzzle flash,NS_Weapon_Valkyrie_Muzzle,SFX_M1_Valkyrie_Fire,High,None,ReplicatedCosmetic,Effect remains readable during automatic fire
+M1_EVT_010,Weapon,Valkyrie impact,NS_Weapon_Valkyrie_Impact,SFX_M1_Valkyrie_Impact,Medium,None,ReplicatedCosmetic,Cyan arc burst and sparks confirm hit
+M1_EVT_011,Objective,Relay activation,NS_M1_Relay_Startup,SFX_M1_Relay_Startup,High,ST_M1_Objective_Relay,ServerReplicated,HUD objective and world effect start together
+M1_EVT_012,Objective,Relay damage,NS_M1_Relay_Damage,SFX_M1_Relay_Damage,High,ST_M1_Objective_Relay,ServerReplicated,Warning intensity increases with relay health loss
+M1_EVT_013,Objective,Relay defense wave start,NS_M1_Wave_Start,SFX_M1_Wave_Start,High,ST_M1_Wave_Announce,ServerReplicated,Wave number and enemy direction are readable
+M1_EVT_014,Objective,Relay defense complete,NS_M1_Relay_Complete,SFX_M1_Relay_Complete,High,ST_M1_Objective_Complete,ServerReplicated,Timer ends and gate state updates once
+M1_EVT_015,Secret,Hidden Aegis wall panel revealed,NS_M1_Secret_Reveal,SFX_M1_Secret_Reveal,Medium,ST_M1_Secret_Found,ServerReplicated,Optional event never blocks main route
+M1_EVT_016,Gate,Subway gate opens,NS_M1_Gate_Open,SFX_M1_Gate_Open,High,ST_M1_Gate_Open,ServerReplicated,Gate completion cannot retrigger repeatedly
+M1_EVT_017,Player,Player takes damage,NS_M1_Player_Damage,SFX_M1_Player_Damage,High,None,LocalOnly,Feedback does not obscure objective audio
+M1_EVT_018,Player,Health or armor pickup,NS_M1_Pickup_HealthArmor,SFX_M1_Pickup_HealthArmor,Medium,UI key only,ServerReplicated,Pickup is confirmed once and not duplicated
